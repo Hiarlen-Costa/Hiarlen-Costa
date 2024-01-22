@@ -2,7 +2,7 @@
 - 👀 I’m interested in  tecnologia
 - 🌱 I’m currently learning react_native
 - 💞️ I’m looking to collaborate on construção de novos progetos
-- 📫 How to reach me hiarlenp@gmail.com
+- 📫 How to reach me hiarlencosta64@gmail.com
 
 <!---
 Hiarlen-Costa/Hiarlen-Costa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
