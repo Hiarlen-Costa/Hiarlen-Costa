@@ -35,6 +35,6 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hiarlen-Costa&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
-<img  height="220" width="100" src="https://i.gifer.com/origin/86/86cac0842428caff0684f86968dc1f26_w200.gif"
+
 </div>
 
