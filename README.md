@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hiarlen-Costa
-- 👀 I’m interested in  tecnologia
-- 🌱 I’m currently learning react_native
+- 🌱 I’m currently learning Eletronica
 - 💞️ I’m looking to collaborate on construção de novos progetos
 - 📫 How to reach me hiarlencosta64@gmail.com
 
