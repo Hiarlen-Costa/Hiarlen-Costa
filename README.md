@@ -17,7 +17,7 @@
 
   ##
  <div>
-   <img aling="center" alt="raios" height="30" width="700" src="http://gifgifs.com/animations/science-body/physics/Electicity_3.gif">
+   <img align="center" alt="raios" height="30" width="700" src="http://gifgifs.com/animations/science-body/physics/Electicity_3.gif">
  </div>
    
   ##
@@ -41,7 +41,10 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hiarlen-Costa&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
-<img aling="center" alt="ironman" height="100" width="40" src="https://i.pinimg.com/originals/f8/89/32/f889323d87ae92dbd5da3b1193708dc3.gif">
 
 </div>
+<div>
+ <img align="center" alt="ironman" height="100" width="40" src="https://cdn.dribbble.com/users/4343008/screenshots/9475408/dribble_version.gif">
 
+
+</div>
