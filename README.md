@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Eletronica
 - 💞️ I’m looking to collaborate on construção de novos progetos 
 - 📫 How to reach me hiarlencosta64@gmail.com
-<div><img align="center" heigt="150" width="60" src="https://i.gifer.com/origin/90/902def1f1755c613a46c1aaabdb964f2_w200.gif"></div>
+<div><img align="center" heigt="150" width="60" src="https://i.pinimg.com/originals/d5/24/86/d52486969a2e2e1440a04469561b4107.gif"></div>
 ## Seja Bem Vindo Ao Meu Perfil
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
